@@ -17,7 +17,7 @@ Easily create and save your QR codes directly from your terminal!
 
 ### 1️⃣ Clone or Download the Project
 ```bash
-git clone [https://github.com/yourusername/cli-qr-generator.gi](https://github.com/itzTron/pyQRX.git
+git clone https://github.com/itzTron/pyQRX.git
 cd pyQRX
 ```
 ## 2️⃣ Create a Virtual Environment (Recommended)
