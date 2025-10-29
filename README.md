@@ -57,8 +57,6 @@ The link, text, or data you want to encode.
 Defaults to qrcode.png in the current directory.
 ```
 ## 💡 Examples
-## 1️⃣ Basic Usage (Default Filename)
-
 ## Generate a QR code for a website:
 ```
 python pyQRX.py "https://www.google.com"
@@ -120,4 +118,7 @@ Suggestions and enhancements are always welcome 🙌
 Tanmoy Naskar
 ```
 
+
+<p align="center">
 “Generate. Encode. Share — all from your command line.” 🚀
+</p>
