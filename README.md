@@ -26,11 +26,11 @@ python -m venv venv
 ```
 ## Activate it:
 
-# Windows
+### Windows
 ```powershell
 .\venv\Scripts\activate
 ```
-# MacOS / Linux
+### MacOS / Linux
 ```bash
 source venv/bin/activate
 ```
