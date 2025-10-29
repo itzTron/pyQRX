@@ -96,32 +96,28 @@ python qr_generator.py "Some data" -o "images/my_qr.png"
 Successfully generated QR code and saved it to: images/my_qr.png
 ```
 ## 📦 Requirements
+```
+ Python 3.7+
 
-# Python 3.7+
+ qrcode library
 
-# qrcode library
+ Install manually (if needed):
 
-# Install manually (if needed):
+ pip install qrcode[pil]
+```
+ 
+## 🤝 Contributing
 
-# pip install qrcode[pil]
-
-## 🧰 Example Output
-
-Here’s a preview of what your generated QR code might look like:
-
-
-🤝 Contributing
-
-Feel free to fork this repository, make improvements, and submit pull requests!
+### Feel free to fork this repository, make improvements, and submit pull requests!
 Suggestions and enhancements are always welcome 🙌
 
-🪪 License
+## 🪪 License
 
-This project is licensed under the MIT License — you’re free to use, modify, and distribute it.
+## This project is licensed under the MIT License — you’re free to use, modify, and distribute it.
 
-✨ Author
-
-Your Name
-📎 GitHub Profile
+## ✨ Author
+```
+Tanmoy Naskar
+```
 
 “Generate. Encode. Share — all from your command line.” 🚀
