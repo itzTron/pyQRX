@@ -1,4 +1,4 @@
-# 🧩 CLI QR Code Generator
+# 🧩 pyQRX CLI QR Code Generator
 
 A simple and efficient **Python-based command-line tool** to generate QR codes instantly from any link or text string.  
 Easily create and save your QR codes directly from your terminal!
@@ -19,3 +19,4 @@ Easily create and save your QR codes directly from your terminal!
 ```bash
 git clone [https://github.com/yourusername/cli-qr-generator.gi](https://github.com/itzTron/pyQRX.git
 cd pyQRX
+
